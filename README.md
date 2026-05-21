@@ -1,5 +1,5 @@
 # Prueba
-Primera tarea de clase Sevastian Sanchez - Bran Salas - Ernesto Cabana - Sergio Gutierrez
+Primera tarea de clase Sevastian Sanchez 
 
 Taller de Python
 
