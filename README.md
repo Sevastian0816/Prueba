@@ -1,6 +1,5 @@
 # Prueba
 Primera tarea de clase Sevastian Sanchez 
-
 Taller de Python
 
 Programación Básica – Primer Semestre
